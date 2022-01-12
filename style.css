@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.ms_bg_blue-water {
+    background-color: rgb(44, 62, 80);
+}
+
+.ms_bg_green {
+    background-color: rgb(26, 188, 156);
+}
+
+.ms_footer_top {
+    background-color: blue;
+}
