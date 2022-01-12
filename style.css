@@ -13,5 +13,10 @@
 }
 
 .ms_footer_top {
-    background-color: blue;
+    background-color: rgb(58, 84, 109);
+}
+
+
+#jumbotron {
+    padding-top: 200px;
 }
